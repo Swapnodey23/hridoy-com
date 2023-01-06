@@ -1,0 +1,13 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.div{
+    display: flex;
+    width: 1200px;
+    gap: 15px;
+    width: 500px;
+    align-items: center;
+
+
+}
